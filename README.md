@@ -9,3 +9,4 @@
 - Day 69: Keras Module API
 - Day 70: Multi-layer Perception多層感知機
 - Day 71: 損失函數
+- Day 72: 啟動函數
