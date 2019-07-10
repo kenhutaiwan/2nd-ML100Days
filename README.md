@@ -10,3 +10,4 @@
 - Day 70: Multi-layer Perception多層感知機
 - Day 71: 損失函數
 - Day 72: 啟動函數
+- Day 73: 梯度下降Gradient Descent
