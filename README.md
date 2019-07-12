@@ -11,3 +11,4 @@
 - Day 71: 損失函數
 - Day 72: 啟動函數
 - Day 73: 梯度下降Gradient Descent
+- Day 74: Gradient Descent 數學原理
