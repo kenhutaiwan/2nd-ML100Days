@@ -12,3 +12,5 @@
 - Day 72: 啟動函數
 - Day 73: 梯度下降Gradient Descent
 - Day 74: Gradient Descent 數學原理 [深入浅出--梯度下降法及其实现](https://www.jianshu.com/p/c7e642877b0e)這篇寫得好多了
+- Day 75: BackPropagation
+- Day 76: 優化器optimizers
