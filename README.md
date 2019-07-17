@@ -15,3 +15,5 @@
 - Day 75: BackPropagation
 - Day 76: 優化器optimizers
 - Day 77: Neural network: validation and overfit
+- Day 78: 訓練神經網路前的注意事項
+- Day 79: 訓練神經網路的細節與技巧 - Learning rate effect
