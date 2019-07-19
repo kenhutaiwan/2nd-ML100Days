@@ -17,3 +17,4 @@
 - Day 77: Neural network: validation and overfit
 - Day 78: 訓練神經網路前的注意事項
 - Day 79: 訓練神經網路的細節與技巧 - Learning rate effect
+- Day 80: [練習 Day] 優化器與學習率的組合與比較
