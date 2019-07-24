@@ -19,4 +19,7 @@
 - Day 79: 訓練神經網路的細節與技巧 - Learning rate effect
 - Day 80: [練習 Day] 優化器與學習率的組合與比較
 - Day 81: 訓練神經網路的細節與技巧 - Regularization
-- Day 82: D82：訓練神經網路的細節與技巧 - Dropout
+- Day 82: 訓練神經網路的細節與技巧 - Dropout
+- Day 83: 訓練神經網路的細節與技巧 - Batch normalization
+- Day 84: [練習 Day] 正規化/隨機移除/批次標準化的 組合與比較
+- Day 85: 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
