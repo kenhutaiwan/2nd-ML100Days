@@ -24,3 +24,5 @@
 - Day 84: [練習 Day] 正規化/隨機移除/批次標準化的 組合與比較
 - Day 85: 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
 - Day 86: 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+- Day 87: 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+- Day 88: 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
