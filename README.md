@@ -27,3 +27,4 @@
 - Day 87: 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
 - Day 88: 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
 - Day 89: 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+- Day 90: 使用傳統電腦視覺與機器學習進行影像辨識
