@@ -32,3 +32,4 @@
 - Day 92: 卷積神經網路 (Convolution Neural Network, CNN) 簡介
 - Day 93: 卷積神經網路架構細節
 - Day 94: 卷積神經網路 - 卷積(Convolution)層與參數調整
+- Day 95: 卷積神經網路 - 池化(Pooling)層與參數調整
