@@ -35,3 +35,4 @@
 - Day 95: 卷積神經網路 - 池化(Pooling)層與參數調整
 - Day 96: Keras 中的 CNN layers
 - Day 97: 使用 CNN 完成 CIFAR-10 資料集
+- Day 98: 訓練卷積神經網路的細節與技巧 - 處理大量數據
