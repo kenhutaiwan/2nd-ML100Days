@@ -3,3 +3,5 @@
 .ipynb_checkpoints/
 nohup.out
 **/*.h5
+**/__pycache__/
+homework/data/final/

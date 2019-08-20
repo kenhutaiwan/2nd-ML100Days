@@ -4,8 +4,12 @@
 
 - Day 61: t-SNE 降維及降維至2D後的embedding視覺化
 - Day 62: t-sne 觀察 : 分群與流形還原
-- Day 67: Keras embedded dataset 的介紹與應用
-- Day 68: Keras Sequential API
+- Day 63: 神經網路介紹
+- Day 64: 深度學習體驗 : 模型調整與學習曲線
+- Day 65: 深度學習體驗 : 啟動函數與正規化
+- Day 66: Keras 安裝與介紹（Keras是什麼？搭配GPU來安裝keras/tensorflow）
+- Day 67: Keras embedded dataset 的介紹與應用(CIFAR image data、IMDB movie emotion data、MNIST 手寫數字 & 時尚 data, 常用名詞：Dense、Activation、Dropout、Flatten、Reshape)
+- Day 68: Keras Sequential API（線性疊加模型，Model宣告、添加層、模型編繹compile、模型訓練fit、模型評估）
 - Day 69: Keras Module API
 - Day 70: Multi-layer Perception多層感知機
 - Day 71: 損失函數
@@ -39,3 +43,4 @@
 - Day 99: 訓練卷積神經網路的細節與技巧 - 處理小量數據
 - Day 100: 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
 - Day 101-D103：Kaggle期末考
+- Day 104: 電腦視覺實務延伸
