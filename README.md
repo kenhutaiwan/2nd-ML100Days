@@ -44,3 +44,4 @@
 - Day 100: 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
 - Day 101-D103：Kaggle期末考
 - Day 104: 電腦視覺實務延伸
+- Day 105: CNN卷積網路回顧
