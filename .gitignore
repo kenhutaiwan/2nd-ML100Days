@@ -4,4 +4,5 @@
 nohup.out
 **/*.h5
 **/__pycache__/
+lab/images/
 homework/data/final/
