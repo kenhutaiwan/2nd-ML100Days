@@ -5,14 +5,14 @@
 - Day 61: t-SNE 降維及降維至2D後的embedding視覺化
 - Day 62: t-sne 觀察 : 分群與流形還原
 - Day 63: 神經網路介紹
-- Day 64: 深度學習體驗 : 模型調整與學習曲線
+- Day 64: 深度學習體驗 : 模型調整與學習曲線，介紹體驗平台 TensorFlow PlayGround，並初步了解模型的調整。
 - Day 65: 深度學習體驗 : 啟動函數與正規化
 - Day 66: Keras 安裝與介紹（Keras是什麼？搭配GPU來安裝keras/tensorflow）
 - Day 67: Keras embedded dataset 的介紹與應用(CIFAR image data、IMDB movie emotion data、MNIST 手寫數字 & 時尚 data, 常用名詞：Dense、Activation、Dropout、Flatten、Reshape)
 - Day 68: Keras Sequential API（線性疊加模型，Model宣告、添加層、模型編繹compile、模型訓練fit、模型評估）
-- Day 69: Keras Module API
+- Day 69: Keras Module API的介紹與應用
 - Day 70: Multi-layer Perception多層感知機
-- Day 71: 損失函數
+- Day 71: 損失函數（損失函數的介紹與應用）
 - Day 72: 啟動函數
 - Day 73: 梯度下降Gradient Descent
 - Day 74: Gradient Descent 數學原理 [深入浅出--梯度下降法及其实现](https://www.jianshu.com/p/c7e642877b0e)這篇寫得好多了
